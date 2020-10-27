@@ -1,6 +1,3 @@
-### Hi there 👋
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rustymagnet3000&show_icons=true" alt="rustymagnet3000" /></p>
-
 ### My repos
 
 Link | Description   
