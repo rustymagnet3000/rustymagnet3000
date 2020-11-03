@@ -1,11 +1,9 @@
 
 
-### Languages
-![](https://img.shields.io/badge/Code-ObjectiveC-informational?style=for-the-badge&logo=hello&logoColor=white&color=2bbc8a)
+### Languages and Debuggers
+![](https://img.shields.io/badge/Code-ObjC-informational?style=for-the-badge&logo=hello&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=for-the-badge&logo=hello&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-c-informational?style=for-the-badge&logo=hello&logoColor=white&color=2bbc8a)
-
-### Debuggers
 ![](https://img.shields.io/badge/Debugger-lldb-informational?style=for-the-badge&logo=hello&logoColor=white&color=purple)
 ![](https://img.shields.io/badge/Debugger-gdb-informational?style=for-the-badge&logo=hello&logoColor=white&color=purple)
 
@@ -15,6 +13,7 @@ Link | Description
 --|---
 [LLDB debugger](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` commands and scripts.
 [OpenSSL playground](https://gist.github.com/rustymagnet3000/e1bad38d30827e2f9f68bedc7534084d) |  command line reminders.
+[OpenSSL playground for iOS](https://github.com/rustymagnet3000/objc_openssl_playground) |  building OpenSSL and coding with OpenSSL for iOS.
 [Bits and Bytes playground](https://github.com/rustymagnet3000/bits_bytes_playground) |  `c`, `c++`, `swift`, `Objective-C` and `asm` code.
 [iOS Debugger Challenge](https://github.com/rustymagnet3000/debugger_challenge) |  For people who wanted to learn `swizzling`, `anti-debug techniques`, `hooking` and `Frida`.  
 [iOS Tiny Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Used for inspecting `URLs, Labels, Cookies`, bypassing `delegates` or altering `code flow`.
