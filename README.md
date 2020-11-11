@@ -21,7 +21,7 @@ Link | Description
 [Terminal Log Parser](https://github.com/rustymagnet3000/c_tidy_file_read) | C command line log search.
 [OpenSSL playground](https://gist.github.com/rustymagnet3000/e1bad38d30827e2f9f68bedc7534084d) |  command line reminders.
 [OpenSSL playground for iOS](https://github.com/rustymagnet3000/objc_openssl_playground) |  building OpenSSL and coding with OpenSSL for iOS.
-[OpenSSL ECDH Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Shows code and command line for the Elliptic Curve variant of the standard Diffie Hellman algorithm. 
+[OpenSSL ECDH Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties want to derive the same shared secret over an insecure channel.
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  written for people learning how to inspect iOS apps. Includes `Frida` commands.
 
 
