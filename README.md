@@ -23,6 +23,8 @@ Link | Description
 [OpenSSL playground for iOS](https://github.com/rustymagnet3000/objc_openssl_playground) |  building OpenSSL and coding with OpenSSL for iOS.
 [OpenSSL ECDH Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties want to derive the same shared secret over an insecure channel.
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  written for people learning how to inspect iOS apps. Includes `Frida` commands.
+[Explore vulnerable C APIs](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)|  Setting up Reverse Engineer challenges and solving them. Mostly `c / c++`.
+
 
 
 
