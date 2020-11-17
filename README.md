@@ -13,6 +13,7 @@ Link | Description
 --|---
 [LLDB](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
 [Bits and Bytes playground](https://github.com/rustymagnet3000/bits_bytes_playground) |  `c`, `c++`, `swift`, `Objective-C` and `asm` code.
+[DeviceCheck iOS](https://github.com/rustymagnet3000/ios_devicecheck_app_attest) | Apple's new Attestation service to prevent App Tampering.
 [iOS Debugger Challenge](https://github.com/rustymagnet3000/debugger_challenge) |  For people who wanted to learn `swizzling`, `anti-debug techniques`, `hooking` and `Frida`.  
 [xOS Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Inspect`URLs, Cookies`, load `dormant code`, bypass`delegates` or alter`code flow`.
 [xOS anti-debug playground](https://github.com/rustymagnet3000/anti_debug_playground) |   `LLDB-Python scripts` to automate anti-debug bypasses.
