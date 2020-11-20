@@ -20,8 +20,9 @@ Link | Description
 [A poor man's RSA Key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | macOS app that could decrypt `ciphertext` with possession of the `RSA Public Key`.
 [Beautiful Log Parser](https://github.com/rustymagnet3000/beautifulParser) | `macOS` app written to make reading logs simpler.
 [Terminal Log Parser](https://github.com/rustymagnet3000/c_tidy_file_read) | `C` command line log search.
-[OpenSSL playground](https://gist.github.com/rustymagnet3000/e1bad38d30827e2f9f68bedc7534084d) |  command line reminders.
-[OpenSSL playground for iOS](https://github.com/rustymagnet3000/objc_openssl_playground) |  building OpenSSL and coding with OpenSSL for `iOS`.
+[OpenSSL command line](https://gist.github.com/rustymagnet3000/e1bad38d30827e2f9f68bedc7534084d) |  `OpenSSL` command line reminders.
+[OpenSSL playground for iOS](https://github.com/rustymagnet3000/objc_openssl_playground) |  Building and coding with `OpenSSL` for `iOS`.
+[PyOpenSSL playground](https://github.com/rustymagnet3000/python_openssl_playground) |  Running PyOpenSSL to get a better understanding of `OpenSSL`.
 [OpenSSL ECDH Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties want to derive the same shared secret over an insecure channel.
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  written for people learning how to inspect `iOS` apps. Includes `Frida` commands.
 [Explore vulnerable C APIs](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)|  Reverse Engineer challenges. Mostly `c / c++`.
