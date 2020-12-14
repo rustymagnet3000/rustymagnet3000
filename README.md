@@ -13,6 +13,7 @@ Link | Description
 --|---
 [A poor man's RSA Key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | Decrypt `ciphertext` with a `RSA Public Key`. `macOS` app.
 [LLDB](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
+[GDB](https://github.com/rustymagnet3000/gdb)  | `gdb` commands.
 [iOS Debugger Challenge](https://github.com/rustymagnet3000/debugger_challenge) |  For people who wanted to learn `swizzling`, `anti-debug techniques`, `hooking` and `Frida`.  
 [xOS Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Inspect`URLs, Cookies`, load `dormant code`, bypass`delegates` or `code flow`.
 [Bits and Bytes playground](https://github.com/rustymagnet3000/bits_bytes_playground) |  `c`, `c++`, `swift`, `Objective-C` and `asm` code.
