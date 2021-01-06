@@ -27,6 +27,7 @@ Link | Description
 [DeviceCheck iOS](https://github.com/rustymagnet3000/ios_devicecheck_app_attest) | Apple's new Attestation service to prevent App Tampering.
 [OpenSSL ECDH Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties want to derive the same shared secret over an insecure channel.
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  written for people learning how to inspect `iOS` apps. Includes `Frida` commands.
+[Frida Scripts](https://github.com/rustymagnet3000/frida_scripts)| Tiny `Frida` scripts.
 
 
 
