@@ -1,11 +1,11 @@
 
 ### Languages and Debuggers
 
-[<img alt="swift_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/swift_icon.png" />][swiftlang]
-[<img alt="objc_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/objc_icon.png" />][objclang]
-[<img alt="c_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/c_icon.png" />][c_lang]
-[<img alt="lldb_debugger" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/lldb_icon.png" />][lldb_debugger]
-[<img alt="gdb_debugger" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/gdb_icon.png" />][gdb_debugger]
+[<img align="left" alt="swift_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/swift_icon.png" />][swiftlang]
+[<img align="left" alt="objc_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/objc_icon.png" />][objclang]
+[<img align="left" alt="c_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/c_icon.png" />][c_lang]
+[<img align="left" alt="lldb_debugger" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/lldb_icon.png" />][lldb_debugger]
+[<img align="left" alt="gdb_debugger" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/gdb_icon.png" />][gdb_debugger]
 
 [swiftlang]: https://swift.org/
 [objclang]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
@@ -39,3 +39,46 @@ Link | Description
 [DeviceCheck iOS](https://github.com/rustymagnet3000/ios_devicecheck_app_attest) | Apple's new Attestation service to prevent App Tampering.
 [OpenSSL ECDH Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties want to derive the same shared secret over an insecure channel.
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  written for people learning how to inspect `iOS` apps. Includes `Frida` commands.
+
+<br />
+<br />
+
+<details>
+  <summary>Favorite repos</summary>
+
+Link | Description
+--|---
+[Liz Rice](https://github.com/lizrice) | Container and Kubernetes Security
+[Derek Selander](https://github.com/DerekSelander/LLDB) | Reverse Engineering master
+[Matthew Green](https://blog.cryptographyengineering.com/) | Cryptography and Privacy
+[Mike Ash](https://mikeash.com/) | `Objective-C` wizard
+[Ole Begemann](https://oleb.net/) | `Swift` wizard
+[Jessie Frazelle](https://blog.jessfraz.com/) | Excellent Computer Scientist
+</details>
+<br />
+<br />
+<details>
+  <summary>GitHub Stats</summary>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true" alt="rustymagnet3000's GitHub Stats" />
+
+</details>
+
+
+<style>
+details > summary {
+  padding: 4px;
+  width: 200px;
+  background-color: #000000;
+  border: none;
+  box-shadow: 1px 1px 2px #bbbbbb;
+  cursor: pointer;
+}
+
+details > p {
+  background-color: #000000;
+  padding: 4px;
+  margin: 0;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+</style>
