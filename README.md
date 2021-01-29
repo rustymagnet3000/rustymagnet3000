@@ -1,11 +1,11 @@
 
 ### Languages and Debuggers
 
-[<img align="left" alt="swift_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/swift_icon.png" />][swiftlang]
-[<img align="left" alt="objc_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/objc_icon.png" />][objclang]
-[<img align="left" alt="c_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/c_icon.png" />][c_lang]
-[<img align="left" alt="lldb_debugger" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/lldb_icon.png" />][lldb_debugger]
-[<img align="left" alt="gdb_debugger" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/gdb_icon.png" />][gdb_debugger]
+[<img align="left" alt="swift_language" style="border:5px;margin:10px;float:left;width:40px;" src="images/swift_icon.png" />][swiftlang]
+[<img align="left" alt="objc_language" style="border:5px;margin:10px;float:left;width:40px;" src="images/objc_icon.png" />][objclang]
+[<img align="left" alt="c_language" style="border:5px;margin:10px;float:left;width:40px;" src="images/c_icon.png" />][c_lang]
+[<img align="left" alt="lldb_debugger" style="border:5px;margin:10px;float:left;width:40px;" src="images/lldb_icon.png" />][lldb_debugger]
+[<img align="left" alt="gdb_debugger" style="border:5px;margin:10px;float:left;width:40px;" src="images/gdb_icon.png" />][gdb_debugger]
 
 [swiftlang]: https://swift.org/
 [objclang]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
