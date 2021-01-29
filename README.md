@@ -64,14 +64,13 @@ Link | Description
 
 </details>
 
-
 <style>
 details > summary {
   padding: 4px;
   width: 200px;
   background-color: #000000;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
+  border: 25;
+  margin: 0;
   cursor: pointer;
 }
 
@@ -79,6 +78,5 @@ details > p {
   background-color: #000000;
   padding: 4px;
   margin: 0;
-  box-shadow: 1px 1px 2px #bbbbbb;
 }
 </style>
