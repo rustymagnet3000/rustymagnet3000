@@ -44,7 +44,7 @@ Link | Description
 <br />
 
 <details>
-  <summary>Favorite repos</summary>
+  <summary>Favorite repos 👏🏼</summary>
 
 Link | Description
 --|---
@@ -63,20 +63,3 @@ Link | Description
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true" alt="rustymagnet3000's GitHub Stats" />
 
 </details>
-
-<style>
-details > summary {
-  padding: 4px;
-  width: 200px;
-  background-color: #000000;
-  border: 25;
-  margin: 0;
-  cursor: pointer;
-}
-
-details > p {
-  background-color: #000000;
-  padding: 4px;
-  margin: 0;
-}
-</style>
