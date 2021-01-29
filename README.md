@@ -1,15 +1,25 @@
 
-
 ### Languages and Debuggers
-![](https://img.shields.io/badge/Code-ObjC-informational?style=for-the-badge&logo=hello&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Swift-informational?style=for-the-badge&logo=hello&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-c-informational?style=for-the-badge&logo=hello&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Debugger-lldb-informational?style=for-the-badge&logo=hello&logoColor=white&color=purple)
-![](https://img.shields.io/badge/Debugger-gdb-informational?style=for-the-badge&logo=hello&logoColor=white&color=purple)
+
+[<img alt="swift_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/swift_icon.png" />][swiftlang]
+[<img alt="objc_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/objc_icon.png" />][objclang]
+[<img alt="c_language" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/c_icon.png" />][c_lang]
+[<img alt="lldb_debugger" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/lldb_icon.png" />][lldb_debugger]
+[<img alt="gdb_debugger" style="border:5px;margin:10px;float:left;width:40px;height:36px;" src="images/gdb_icon.png" />][gdb_debugger]
+
+[swiftlang]: https://swift.org/
+[objclang]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+[c_lang]: https://en.wikipedia.org/wiki/Dennis_Ritchie
+[lldb_debugger]: https://lldb.llvm.org/
+[gdb_debugger]: https://www.gnu.org/software/gdb/
+
+<br />
+<br />
+<br />
 
 ### Repos
 
-Link | Description   
+Link | Description
 --|---
 [PyOpenSSL playground](https://github.com/rustymagnet3000/python_openssl_playground) |  `Python`modules `PyOpenSSL`and `socket` to print certificates, check for expired certs, verify hostnames, verify certificate chains.
 [A poor man's RSA Key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | Decrypt `ciphertext` with a `RSA Public Key`. `macOS` app.
@@ -29,9 +39,3 @@ Link | Description
 [DeviceCheck iOS](https://github.com/rustymagnet3000/ios_devicecheck_app_attest) | Apple's new Attestation service to prevent App Tampering.
 [OpenSSL ECDH Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties want to derive the same shared secret over an insecure channel.
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  written for people learning how to inspect `iOS` apps. Includes `Frida` commands.
-
-
-
-
-
-
