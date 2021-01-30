@@ -1,17 +1,19 @@
 
 ### Languages and Debuggers
 
-[<img align="left" alt="swift_language" style="border:5px;margin:10px;float:left;" src="images/swift_icon.png" />][swiftlang]
+[<img align="left" alt="swift_language" style="border:5px;margin:10px;float:left;" src="images/swift_icon2.png" />][swiftlang]
 [<img align="left" alt="objc_language" style="border:5px;margin:10px;float:left;" src="images/objc_icon.png" />][objclang]
 [<img align="left" alt="c_language" style="border:5px;margin:10px;float:left;" src="images/c_icon.png" />][c_lang]
 [<img align="left" alt="lldb_debugger" style="border:5px;margin:10px;float:left;" src="images/lldb_icon.png" />][lldb_debugger]
 [<img align="left" alt="gdb_debugger" style="border:5px;margin:10px;float:left;" src="images/gdb_icon.png" />][gdb_debugger]
+[<img align="left" alt="docker" style="border:5px;margin:10px;float:left;" src="images/docker_icon.png" />][docker]
 
 [swiftlang]: https://swift.org/
 [objclang]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 [c_lang]: https://en.wikipedia.org/wiki/Dennis_Ritchie
 [lldb_debugger]: https://lldb.llvm.org/
 [gdb_debugger]: https://www.gnu.org/software/gdb/
+[docker]: https://hub.docker.com/
 
 <br />
 <br />
@@ -48,9 +50,9 @@ Link | Description
 
 Link | Description
 --|---
-[Liz Rice](https://github.com/lizrice) | Container and Kubernetes Security
-[Derek Selander](https://github.com/DerekSelander/LLDB) | Reverse Engineering master
-[Matthew Green](https://blog.cryptographyengineering.com/) | Cryptography and Privacy
+[Liz Rice](https://github.com/lizrice) | Container and Kubernetes Security guru
+[Derek Selander](https://github.com/DerekSelander/LLDB) | iOS/macOS Reverse Engineering master
+[Matthew Green](https://blog.cryptographyengineering.com/) | Cryptography and Privacy genius
 [Mike Ash](https://mikeash.com/) | `Objective-C` wizard
 [Ole Begemann](https://oleb.net/) | `Swift` wizard
 [Jessie Frazelle](https://blog.jessfraz.com/) | Excellent Computer Scientist
@@ -61,5 +63,12 @@ Link | Description
   <summary>GitHub Stats</summary>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true" alt="rustymagnet3000's GitHub Stats" />
+
+</details>
+
+<details>
+  <summary>Languages used</summary>
+
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=rustymagnet3000&theme=blue-green)
 
 </details>
