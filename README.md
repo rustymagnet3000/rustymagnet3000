@@ -1,15 +1,13 @@
 
 ### Languages and tools
 
-[<img align="left" alt="swift_language" style="width:50px;border:5px;margin:10px;float:left;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swiftlang]
-[<img align="left" alt="objc_language" style="width:50px;border:5px;margin:10px;float:left;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />][objclang]
-[<img align="left" alt="c_language" style="width:50px;border:5px;margin:10px;float:left;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c_lang]
-[<img align="left" alt="lldb_debugger" style="border:5px;margin:10px;float:left;" src="images/lldb_icon.png" />][lldb_debugger]
-[<img align="left" alt="gdb_debugger" style="border:5px;margin:10px;float:left;" src="images/gdb_icon.png" />][gdb_debugger]
-[<img align="left" alt="docker" style="width:50px;border:5px;margin:10px;float:left;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
-[<img align="left" alt="docker" style="border:5px;margin:10px;float:left;" src="images/frida_icon.png" />][frida]
-
-
+[<img align="left" alt="swift_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swiftlang]
+[<img align="left" alt="objc_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />][objclang]
+[<img align="left" alt="c_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c_lang]
+[<img align="left" alt="lldb_debugger" style="max-width:100%;" src="images/lldb_icon.png" />][lldb_debugger]
+[<img align="left" alt="gdb_debugger" style="max-width:100%;" src="images/gdb_icon.png" />][gdb_debugger]
+[<img align="left" alt="docker" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
+[<img align="left" alt="frida" src="images/frida_icon.png" />][frida]
 
 [swiftlang]: https://swift.org/
 [objclang]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
