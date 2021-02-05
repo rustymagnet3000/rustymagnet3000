@@ -28,7 +28,7 @@ Link | Application Security
 [GDB](https://github.com/rustymagnet3000/gdb)  | `gdb` commands.
 [Frida](https://github.com/rustymagnet3000/frida_scripts)| Tiny `Frida` scripts.
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  Inspect `iOS` apps.
-[Truststore inspector](https://github.com/rustymagnet3000/python_openssl_playground) |  Check the local `Truststore` against hosts. `Python` app with `PyOpenSSL`.
+[Truststore inspector](https://github.com/rustymagnet3000/python_openssl_playground) | Automatically parse the `Certificates` that make up a local `Truststore`. Check if a server `verifies` against the `Truststore`.  `Python` command line tool.
 [anti-debug playground](https://github.com/rustymagnet3000/anti_debug_playground) |   `LLDB-Python scripts` to bypass anti-debug calls. `iOS` and `macOS`.
 [A poor man's key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | Decrypt `ciphertext` and derive `RSA Private Key` with `RSA Public Key`. `macOS` app.
 [iOS Debugger Challenge](https://github.com/rustymagnet3000/debugger_challenge) | Learn `swizzling`, `anti-debug techniques`, `hooking` and `Frida`. 
@@ -37,8 +37,6 @@ Link | Application Security
 [Bits and Bytes playground](https://github.com/rustymagnet3000/bits_bytes_playground) |  `c`, `c++`, `swift`, `Objective-C`, `Python` and `asm` code.
 [Explore vulnerable C APIs](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)|  Reverse Engineer challenges. `c / c++`.
 [OpenSSL Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties derive the same `shared secret` over an insecure channel.  `Eliptic Curve Diffie-Hellman` ( `ECDH` ).
-
-### Code
 
 <details>
   <summary>Code</summary>
@@ -57,6 +55,16 @@ Link | Description
 </details>
 <br />
 <br />
+
+<details>
+  <summary>:zap:Recent activity</summary>
+  <!--START_SECTION:activity-->
+
+  <!--END_SECTION:activity-->
+</details>
+<br />
+<br />
+
 <details>
   <summary>Languages used</summary>
 
