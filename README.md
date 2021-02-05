@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Link | Application Security
+ :lock: | Application Security
 --|---
 [LLDB](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
 [GDB](https://github.com/rustymagnet3000/gdb)  | `gdb` commands.
@@ -39,7 +39,7 @@ Link | Application Security
 [OpenSSL Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties derive the same `shared secret` over an insecure channel.  `Eliptic Curve Diffie-Hellman` ( `ECDH` ).
 
 <details>
-  <summary>Code</summary>
+  <summary>:rocket:Code</summary>
 
 Link | Description
 --|---
@@ -57,16 +57,15 @@ Link | Description
 <br />
 
 <details>
-  <summary>:zap:Recent activity</summary>
+  <summary>:bookmark:Recent activity</summary>
   <!--START_SECTION:activity-->
 
-  <!--END_SECTION:activity-->
 </details>
 <br />
 <br />
 
 <details>
-  <summary>Languages used</summary>
+  <summary>:art:Languages used</summary>
 
 ![1](https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=rustymagnet3000&theme=blue-green)
 </details>
@@ -75,7 +74,7 @@ Link | Description
 <br />
 
 <details>
-  <summary>Favorite computer scientists</summary>
+  <summary>:bulb:Favorite computer scientists</summary>
 
 Link | Description
 --|---
@@ -89,7 +88,7 @@ Link | Description
 <br />
 <br />
 <details>
-  <summary>GitHub Stats</summary>
+  <summary>:pencil:GitHub Stats</summary>
 
 <img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true" alt="rustymagnet3000's GitHub Stats" />
 
