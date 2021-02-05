@@ -16,13 +16,15 @@
 [gdb_debugger]: https://www.gnu.org/software/gdb/
 [docker]: https://hub.docker.com/
 [frida]: https://frida.re/
-<br />
-<br />
-<br />
-<br />
+
 <br />
 
-Link | Application Security
+<br />
+
+---
+<br />
+
+ :lock: | Application Security
 --|---
 [LLDB](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
 [GDB](https://github.com/rustymagnet3000/gdb)  | `gdb` commands.
@@ -39,7 +41,7 @@ Link | Application Security
 [OpenSSL Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties derive the same `shared secret` over an insecure channel.  `Eliptic Curve Diffie-Hellman` ( `ECDH` ).
 
 <details>
-  <summary>Code</summary>
+  <summary>:rocket: Code</summary>
 
 Link | Description
 --|---
@@ -53,29 +55,32 @@ Link | Description
 [WKWebView](https://github.com/rustymagnet3000/slim_wkwebview_with_delegates) |  A slim `WKWebView` to understand Apple's rich `WKWebView Delegates` and how `Javascript bridges`.
 
 </details>
-<br />
-<br />
 
+---
 <details>
-  <summary>:zap:Recent activity</summary>
-  <!--START_SECTION:activity-->
+  <summary>:bookmark: Recent activity</summary>
 
-  <!--END_SECTION:activity-->
-</details>
-<br />
-<br />
+<!--START_SECTION:activity-->
 
-<details>
-  <summary>Languages used</summary>
+1. 🗣 Commented on [#986](https://github.com/pyca/pyopenssl/issues/986) in [pyca/pyopenssl](https://github.com/pyca/pyopenssl)
+2. 🎉 Merged PR [#2](https://github.com/rustymagnet3000/rustymagnet3000/pull/2) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
+3. 💪 Opened PR [#2](https://github.com/rustymagnet3000/rustymagnet3000/pull/2) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
+4. ❗️ Closed issue [#25](https://github.com/DerekSelander/LLDB/issues/25) in [DerekSelander/LLDB](https://github.com/DerekSelander/LLDB)
+5. ❗️ Opened issue [#9](https://github.com/lizrice/container-security/issues/9) in [lizrice/container-security](https://github.com/lizrice/container-security)
+<!--END_SECTION:activity-->
 
-![1](https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=rustymagnet3000&theme=blue-green)
 </details>
 
-<br />
-<br />
-
+---
 <details>
-  <summary>Favorite computer scientists</summary>
+  <summary>:art: Languages used</summary>
+
+![1](https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=rustymagnet3000&theme=graywhite)
+</details>
+
+---
+<details>
+  <summary>:bulb: Favorite computer scientists</summary>
 
 Link | Description
 --|---
@@ -85,12 +90,13 @@ Link | Description
 [Mike Ash](https://mikeash.com/) | `Objective-C`
 [Ole Begemann](https://oleb.net/) | `Swift`
 [Jessie Frazelle](https://blog.jessfraz.com/) | Computer Scientist
-</details>
-<br />
-<br />
-<details>
-  <summary>GitHub Stats</summary>
 
-<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true" alt="rustymagnet3000's GitHub Stats" />
+</details>
+
+---
+<details>
+  <summary>:pencil: GitHub stats</summary>
+
+<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true&theme=graywhite" alt="rustymagnet3000's GitHub Stats" />
 
 </details>
