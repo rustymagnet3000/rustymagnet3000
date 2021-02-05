@@ -55,10 +55,11 @@ Link | Description
 </details>
 
 ---
-<br />
 <details>
   <summary>:bookmark: Recent activity</summary>
-  <!--START_SECTION:activity-->
+
+<!--START_SECTION:activity-->
+
 1. 🗣 Commented on [#986](https://github.com/pyca/pyopenssl/issues/986) in [pyca/pyopenssl](https://github.com/pyca/pyopenssl)
 2. 🎉 Merged PR [#2](https://github.com/rustymagnet3000/rustymagnet3000/pull/2) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
 3. 💪 Opened PR [#2](https://github.com/rustymagnet3000/rustymagnet3000/pull/2) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
@@ -69,7 +70,6 @@ Link | Description
 </details>
 
 ---
-
 <details>
   <summary>:art: Languages used</summary>
 
@@ -77,7 +77,6 @@ Link | Description
 </details>
 
 ---
-<br />
 <details>
   <summary>:bulb: Favorite computer scientists</summary>
 
@@ -93,7 +92,6 @@ Link | Description
 </details>
 
 ---
-<br />
 <details>
   <summary>:pencil: GitHub stats</summary>
 
