@@ -62,11 +62,11 @@ Link | Description
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#986](https://github.com/pyca/pyopenssl/issues/986) in [pyca/pyopenssl](https://github.com/pyca/pyopenssl)
-2. 🎉 Merged PR [#2](https://github.com/rustymagnet3000/rustymagnet3000/pull/2) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
-3. 💪 Opened PR [#2](https://github.com/rustymagnet3000/rustymagnet3000/pull/2) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
-4. ❗️ Closed issue [#25](https://github.com/DerekSelander/LLDB/issues/25) in [DerekSelander/LLDB](https://github.com/DerekSelander/LLDB)
-5. ❗️ Opened issue [#9](https://github.com/lizrice/container-security/issues/9) in [lizrice/container-security](https://github.com/lizrice/container-security)
+1. 🎉 Merged PR [#3](https://github.com/rustymagnet3000/rustymagnet3000/pull/3) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
+2. 💪 Opened PR [#3](https://github.com/rustymagnet3000/rustymagnet3000/pull/3) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
+3. 🗣 Commented on [#986](https://github.com/pyca/pyopenssl/issues/986) in [pyca/pyopenssl](https://github.com/pyca/pyopenssl)
+4. 🎉 Merged PR [#2](https://github.com/rustymagnet3000/rustymagnet3000/pull/2) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
+5. 💪 Opened PR [#2](https://github.com/rustymagnet3000/rustymagnet3000/pull/2) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
 <!--END_SECTION:activity-->
 
 </details>
