@@ -16,10 +16,12 @@
 [gdb_debugger]: https://www.gnu.org/software/gdb/
 [docker]: https://hub.docker.com/
 [frida]: https://frida.re/
+
 <br />
+
 <br />
-<br />
-<br />
+
+---
 <br />
 
  :lock: | Application Security
