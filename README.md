@@ -39,7 +39,7 @@
 [OpenSSL Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties derive the same `shared secret` over an insecure channel.  `Eliptic Curve Diffie-Hellman` ( `ECDH` ).
 
 <details>
-  <summary>:rocket:Code</summary>
+  <summary>:rocket: Code</summary>
 
 Link | Description
 --|---
@@ -53,28 +53,27 @@ Link | Description
 [WKWebView](https://github.com/rustymagnet3000/slim_wkwebview_with_delegates) |  A slim `WKWebView` to understand Apple's rich `WKWebView Delegates` and how `Javascript bridges`.
 
 </details>
-<br />
-<br />
 
+---
+<br />
 <details>
-  <summary>:bookmark:Recent activity</summary>
+  <summary>:bookmark: Recent activity</summary>
   <!--START_SECTION:activity-->
 
 </details>
-<br />
-<br />
+
+---
 
 <details>
-  <summary>:art:Languages used</summary>
+  <summary>:art: Languages used</summary>
 
-![1](https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=rustymagnet3000&theme=blue-green)
+![1](https://github-readme-stats-alpha-ivory.vercel.app/api/top-langs/?username=rustymagnet3000&theme=graywhite)
 </details>
 
+---
 <br />
-<br />
-
 <details>
-  <summary>:bulb:Favorite computer scientists</summary>
+  <summary>:bulb: Favorite computer scientists</summary>
 
 Link | Description
 --|---
@@ -84,12 +83,14 @@ Link | Description
 [Mike Ash](https://mikeash.com/) | `Objective-C`
 [Ole Begemann](https://oleb.net/) | `Swift`
 [Jessie Frazelle](https://blog.jessfraz.com/) | Computer Scientist
+
 </details>
-<br />
+
+---
 <br />
 <details>
-  <summary>:pencil:GitHub Stats</summary>
+  <summary>:pencil: GitHub stats</summary>
 
-<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true" alt="rustymagnet3000's GitHub Stats" />
+<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true&theme=graywhite" alt="rustymagnet3000's GitHub Stats" />
 
 </details>
