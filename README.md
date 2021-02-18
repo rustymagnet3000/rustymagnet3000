@@ -62,11 +62,11 @@ Link | Description
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/rustymagnet3000/truststore_inspector/pull/1) in [rustymagnet3000/truststore_inspector](https://github.com/rustymagnet3000/truststore_inspector)
-2. 💪 Opened PR [#1](https://github.com/rustymagnet3000/truststore_inspector/pull/1) in [rustymagnet3000/truststore_inspector](https://github.com/rustymagnet3000/truststore_inspector)
-3. 🎉 Merged PR [#3](https://github.com/rustymagnet3000/rustymagnet3000/pull/3) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
-4. 💪 Opened PR [#3](https://github.com/rustymagnet3000/rustymagnet3000/pull/3) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
-5. 🗣 Commented on [#986](https://github.com/pyca/pyopenssl/issues/986) in [pyca/pyopenssl](https://github.com/pyca/pyopenssl)
+1. 🎉 Merged PR [#1](https://github.com/rustymagnet3000/ios_debugger_challenge/pull/1) in [rustymagnet3000/ios_debugger_challenge](https://github.com/rustymagnet3000/ios_debugger_challenge)
+2. 💪 Opened PR [#1](https://github.com/rustymagnet3000/ios_debugger_challenge/pull/1) in [rustymagnet3000/ios_debugger_challenge](https://github.com/rustymagnet3000/ios_debugger_challenge)
+3. 🎉 Merged PR [#1](https://github.com/rustymagnet3000/truststore_inspector/pull/1) in [rustymagnet3000/truststore_inspector](https://github.com/rustymagnet3000/truststore_inspector)
+4. 💪 Opened PR [#1](https://github.com/rustymagnet3000/truststore_inspector/pull/1) in [rustymagnet3000/truststore_inspector](https://github.com/rustymagnet3000/truststore_inspector)
+5. 🎉 Merged PR [#3](https://github.com/rustymagnet3000/rustymagnet3000/pull/3) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
 <!--END_SECTION:activity-->
 
 </details>
