@@ -28,17 +28,18 @@
 --|---
 [LLDB](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
 [GDB](https://github.com/rustymagnet3000/gdb)  | `gdb` commands.
-[Frida](https://github.com/rustymagnet3000/frida_scripts)| Tiny `Frida` scripts.
-[iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  Inspect `iOS` apps.
+[iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  Inspect `iOS` apps at-rest or at run-time.
+[Notarize macOS app](https://github.com/rustymagnet3000/notarize_a_cli_macos_app)|   `Notarize` and `Package` an app.  Stop the `macOS` _"could be malware"_ warning.
 [Truststore inspector](https://github.com/rustymagnet3000/python_openssl_playground) | Automatically parse the `Certificates` that make up a local `Truststore`. Check if a server `verifies` against the `Truststore`.  `Python` command line tool.
+[Frida](https://github.com/rustymagnet3000/frida_scripts)| Tiny `Frida` scripts aimed at `macOS` and `iOS`.
 [anti-debug playground](https://github.com/rustymagnet3000/anti_debug_playground) |   `LLDB-Python scripts` to bypass anti-debug calls. `iOS` and `macOS`.
-[A poor man's key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | Decrypt `ciphertext` and derive `RSA Private Key` with `RSA Public Key`. `macOS` app.
-[iOS Debugger Challenge](https://github.com/rustymagnet3000/debugger_challenge) | Learn `swizzling`, `anti-debug techniques`, `hooking` and `Frida`. 
+[A poor man's key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `RSA Private Key` from a `RSA Public Key`. Then decrypt `ciphertext`.
+[iOS Debugger Challenge](https://github.com/rustymagnet3000/debugger_challenge) | Challenges to teach how to inspect an iOS app with `swizzling`, `anti-debug techniques`, `hooking` and `Frida`.
 [Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Inspect`URLs, Cookies`, load `dormant code`, bypass`delegates` or `code flow`. `iOS`.
 [xOS Port Scanner](https://github.com/rustymagnet3000/ios_macos_poor_port_scanner) | Check for open ports on `macOS` and `iOS`.
-[Bits and Bytes playground](https://github.com/rustymagnet3000/bits_bytes_playground) |  `c`, `c++`, `swift`, `Objective-C`, `Python` and `asm` code.
-[Explore vulnerable C APIs](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)|  Reverse Engineer challenges. `c / c++`.
-[OpenSSL Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties derive the same `shared secret` over an insecure channel.  `Eliptic Curve Diffie-Hellman` ( `ECDH` ).
+[Bits and Bytes playground](https://github.com/rustymagnet3000/bits_bytes_playground) |  `c`, `c++`, `swift`, `Objective-C`, `Python`, `Ruby` and `asm` code.
+[Explore vulnerable C APIs](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)|  Solving _Reverse Engineering_ challenges. `c` and `c++`.
+[OpenSSL Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties derive the same `shared secret` over an insecure channel.  Uses `Eliptic Curve Diffie-Hellman` ( `ECDH` ).
 
 <details>
   <summary>:rocket: Code</summary>
