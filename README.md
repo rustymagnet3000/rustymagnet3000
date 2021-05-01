@@ -63,11 +63,11 @@ Link | Description
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#60](https://github.com/deliveroo/circleci/pull/60) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-2. ❌ Closed PR [#59](https://github.com/deliveroo/circleci/pull/59) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-3. 💪 Opened PR [#59](https://github.com/deliveroo/circleci/pull/59) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-4. ❌ Closed PR [#49](https://github.com/deliveroo/circleci/pull/49) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-5. 🎉 Merged PR [#1](https://github.com/rustymagnet3000/ios_debugger_challenge/pull/1) in [rustymagnet3000/ios_debugger_challenge](https://github.com/rustymagnet3000/ios_debugger_challenge)
+1. 🗣 Commented on [#60](https://github.com/deliveroo/circleci/issues/60) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
+2. 💪 Opened PR [#60](https://github.com/deliveroo/circleci/pull/60) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
+3. ❌ Closed PR [#59](https://github.com/deliveroo/circleci/pull/59) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
+4. 💪 Opened PR [#59](https://github.com/deliveroo/circleci/pull/59) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
+5. ❌ Closed PR [#49](https://github.com/deliveroo/circleci/pull/49) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
 <!--END_SECTION:activity-->
 
 </details>
