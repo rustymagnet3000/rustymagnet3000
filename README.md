@@ -2,7 +2,7 @@
 ### Languages and tools
 
 [<img align="left" alt="swift_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swiftlang]
-[<img align="left" alt="rust_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rust-lang]
+[<img align="left" alt="rust_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rustlang]
 [<img align="left" alt="python" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="objc_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />][objclang]
 [<img align="left" alt="c_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c_lang]
@@ -12,6 +12,8 @@
 [<img align="left" alt="frida" src="images/frida_icon.png" />][frida]
 
 [swiftlang]: https://swift.org/
+[python]: https://www.python.org/
+[rustlang]: https://www.rust-lang.org/
 [objclang]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 [c_lang]: https://en.wikipedia.org/wiki/Dennis_Ritchie
 [lldb_debugger]: https://lldb.llvm.org/
