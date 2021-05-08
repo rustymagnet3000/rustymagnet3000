@@ -2,6 +2,7 @@
 ### Languages and tools
 
 [<img align="left" alt="swift_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swiftlang]
+[<img align="left" alt="rust_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rust-lang]
 [<img align="left" alt="objc_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />][objclang]
 [<img align="left" alt="c_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c_lang]
 [<img align="left" alt="lldb_debugger" style="max-width:100%;" src="images/lldb_icon.png" />][lldb_debugger]
