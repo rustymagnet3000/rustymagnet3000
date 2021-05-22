@@ -100,6 +100,6 @@ Link | Description
 <details>
   <summary>:pencil: GitHub stats</summary>
 
-<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true&theme=graywhite&count_private=true" alt="rustymagnet3000's GitHub Stats" />
+<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true&theme=vue&count_private=true" alt="rustymagnet3000's GitHub Stats" />
 
 </details>
