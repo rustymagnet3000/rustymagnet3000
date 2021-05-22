@@ -29,10 +29,10 @@
  :lock: | Application Security
 --|---
 [LLDB](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
-[GDB](https://github.com/rustymagnet3000/gdb)  | `gdb` commands.
+[GDB](https://github.com/rustymagnet3000/gdb)  | `gdb` debugger commands.
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  Inspect `iOS` apps at-rest or at run-time.
 [Notarize macOS app](https://github.com/rustymagnet3000/notarize_a_cli_macos_app)|   `Notarize` and `Package` an app.  Stop the `macOS` _"could be malware"_ warning.
-[Truststore inspector](https://github.com/rustymagnet3000/python_openssl_playground) | Automatically parse the `Certificates` that make up a local `Truststore`. Check if a server `verifies` against the `Truststore`.  `Python` command line tool.
+[Truststore inspector](https://github.com/rustymagnet3000/python_openssl_playground) | Parse `Certificates` that make up a local `Truststore`. Check if a server `verifies` against the `Truststore`.
 [Frida](https://github.com/rustymagnet3000/frida_scripts)| Tiny `Frida` scripts aimed at `macOS` and `iOS`.
 [anti-debug playground](https://github.com/rustymagnet3000/anti_debug_playground) |   `LLDB-Python scripts` to bypass anti-debug calls. `iOS` and `macOS`.
 [A poor man's key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `RSA Private Key` from a `RSA Public Key`. Then decrypt `ciphertext`.
@@ -100,6 +100,6 @@ Link | Description
 <details>
   <summary>:pencil: GitHub stats</summary>
 
-<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true&theme=graywhite" alt="rustymagnet3000's GitHub Stats" />
+<img align="left" src="https://github-readme-stats-alpha-ivory.vercel.app/api?username=rustymagnet3000&show_icons=true&hide_border=true&theme=graywhite&count_private=true" alt="rustymagnet3000's GitHub Stats" />
 
 </details>
