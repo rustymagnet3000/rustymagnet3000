@@ -65,11 +65,11 @@ Link | Description
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#737](https://github.com/aquasecurity/tracee/issues/737) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
-2. 🎉 Merged PR [#61](https://github.com/deliveroo/circleci/pull/61) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-3. 💪 Opened PR [#61](https://github.com/deliveroo/circleci/pull/61) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-4. 🗣 Commented on [#60](https://github.com/deliveroo/circleci/issues/60) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-5. 💪 Opened PR [#60](https://github.com/deliveroo/circleci/pull/60) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
+1. ❌ Closed PR [#60](https://github.com/deliveroo/circleci/pull/60) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
+2. 🗣 Commented on [#60](https://github.com/deliveroo/circleci/issues/60) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
+3. 💪 Opened PR [#62](https://github.com/deliveroo/circleci/pull/62) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
+4. ❗️ Opened issue [#737](https://github.com/aquasecurity/tracee/issues/737) in [aquasecurity/tracee](https://github.com/aquasecurity/tracee)
+5. 🎉 Merged PR [#61](https://github.com/deliveroo/circleci/pull/61) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
 <!--END_SECTION:activity-->
 
 </details>
