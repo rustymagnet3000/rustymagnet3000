@@ -41,9 +41,8 @@
 [iOS Debugger Challenge](https://github.com/rustymagnet3000/debugger_challenge) | Challenges for hacking `iOS` apps.
 [Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Inspect`URLs, Cookies`, load `dormant code`, bypass`delegates` or `code flow` on `iOS`.
 [xOS Port Scanner](https://github.com/rustymagnet3000/ios_macos_poor_port_scanner) | Check for open ports on `macOS` and `iOS`.
-[Bits and Bytes playground](https://github.com/rustymagnet3000/bits_bytes_playground) |  `c`, `c++`, `swift`, `Objective-C`, `Python`, `Ruby`, `Rust` and `asm` code.
 [Explore vulnerable C APIs](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)|  Solving _Reverse Engineering_ challenges. `c` and `c++`.
-[OpenSSL Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties derive the same `shared secret` over an insecure channel.  `Eliptic Curve Diffie-Hellman` ( `ECDH` ).
+[ECDH Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties derive the same `shared secret` over an insecure channel.  
 
 <details>
   <summary>:rocket: Code</summary>
