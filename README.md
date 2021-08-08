@@ -67,11 +67,11 @@ Link | Description
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#4](https://github.com/rustymagnet3000/rustymagnet3000/pull/4) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
-2. 💪 Opened PR [#4](https://github.com/rustymagnet3000/rustymagnet3000/pull/4) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
-3. ❌ Closed PR [#60](https://github.com/deliveroo/circleci/pull/60) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-4. 🗣 Commented on [#60](https://github.com/deliveroo/circleci/issues/60) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-5. 💪 Opened PR [#62](https://github.com/deliveroo/circleci/pull/62) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
+1. 🎉 Merged PR [#1](https://github.com/rustymagnet3000/bits_bytes_playground/pull/1) in [rustymagnet3000/bits_bytes_playground](https://github.com/rustymagnet3000/bits_bytes_playground)
+2. 💪 Opened PR [#1](https://github.com/rustymagnet3000/bits_bytes_playground/pull/1) in [rustymagnet3000/bits_bytes_playground](https://github.com/rustymagnet3000/bits_bytes_playground)
+3. 🎉 Merged PR [#4](https://github.com/rustymagnet3000/rustymagnet3000/pull/4) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
+4. 💪 Opened PR [#4](https://github.com/rustymagnet3000/rustymagnet3000/pull/4) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
+5. ❌ Closed PR [#60](https://github.com/deliveroo/circleci/pull/60) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
 <!--END_SECTION:activity-->
 
 </details>
