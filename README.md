@@ -28,53 +28,25 @@
 ---
 <br />
 
- :lock: | Application Security
+ :rocket: | Application Security and code
 --|---
-[LLDB](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
-[GDB](https://github.com/rustymagnet3000/gdb)  | `gdb` debugger commands.
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  Inspect `iOS` apps at-rest or at run-time.
-[Notarize macOS app](https://github.com/rustymagnet3000/notarize_a_cli_macos_app)|   `Notarize` and `Package` an app.  Stop the `macOS` _"could be malware"_ warning.
 [Truststore inspector](https://github.com/rustymagnet3000/python_openssl_playground) | Check if a server `verifies` against a local `Truststore`.
 [Frida](https://github.com/rustymagnet3000/frida_scripts)| Tiny `Frida` scripts aimed at `macOS` and `iOS`.
-[anti-debug playground](https://github.com/rustymagnet3000/anti_debug_playground) |   `LLDB-Python scripts` to bypass anti-debug calls. `iOS` and `macOS`.
+[Burp](https://github.com/rustymagnet3000/burp_tips) |   `BurpSuite` tips.
+[Bits and Bytes playground](https://github.com/rustymagnet3000/bits_bytes_playground) |  `c`, `rust`, `swift`, `Python`, `Objective-C` and `asm` code snippets.
+[Container playground](https://github.com/rustymagnet3000/docker_playground) | `Docker`, `K8s`, `Terraform` commands.
+[aws](https://github.com/rustymagnet3000/aws) | List of `cli` commands.
 [A poor man's key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `RSA Private Key` from a `RSA Public Key`.
 [iOS Debugger Challenge](https://github.com/rustymagnet3000/debugger_challenge) | Challenges for hacking `iOS` apps.
+[Notarize](https://github.com/rustymagnet3000/notarize_a_cli_macos_app)|   `Notarize` and `Package` a `macOS app`.  Stops _"could be malware"_ warning.
+[LLDB](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
+[GDB](https://github.com/rustymagnet3000/gdb)  | `gdb` debugger commands.
 [Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Inspect`URLs, Cookies`, load `dormant code`, bypass`delegates` or `code flow` on `iOS`.
 [xOS Port Scanner](https://github.com/rustymagnet3000/ios_macos_poor_port_scanner) | Check for open ports on `macOS` and `iOS`.
 [Explore vulnerable C APIs](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)|  Solving _Reverse Engineering_ challenges. `c` and `c++`.
 [ECDH Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties derive the same `shared secret` over an insecure channel.  
 
-<details>
-  <summary>:rocket: Code</summary>
-
-Link | Description
---|---
-[Bits and Bytes playground](https://github.com/rustymagnet3000/bits_bytes_playground) |  `c`, `c++`, `swift`, `Python`, `Objective-C` and `asm` code snippets.
-[Container playground](https://github.com/rustymagnet3000/docker_playground) | `Docker`, `K8s`, `Terraform` commands.
-[AWS cheat sheet](https://github.com/rustymagnet3000/aws) | List of commands I used with `aws`.
-[Beautiful Log Parser](https://github.com/rustymagnet3000/beautifulParser) | `macOS` app written to make reading logs simpler.
-[Terminal Log Parser](https://github.com/rustymagnet3000/c_tidy_file_read) | `C` command line log search.
-[OpenSSL cheatsheet](https://gist.github.com/rustymagnet3000/e1bad38d30827e2f9f68bedc7534084d) |  `OpenSSL` command line reminders.
-[OpenSSL playground for iOS](https://github.com/rustymagnet3000/objc_openssl_playground) |  Building and coding with `OpenSSL` for `iOS`.
-[WKWebView's WKURLSchemeHandler](https://github.com/rustymagnet3000/WKWebView-and-WKURLSchemeHandler) |  A vanilla `WKWebView` setup versus a `WKWebView WKURLSchemeHandler` setup.
-[WKWebView](https://github.com/rustymagnet3000/slim_wkwebview_with_delegates) |  A slim `WKWebView` to understand Apple's rich `WKWebView Delegates` and how `Javascript bridges`.
-
-</details>
-
----
-<details>
-  <summary>:bookmark: Recent activity</summary>
-
-<!--START_SECTION:activity-->
-
-1. 🎉 Merged PR [#63](https://github.com/deliveroo/circleci/pull/63) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-2. 💪 Opened PR [#63](https://github.com/deliveroo/circleci/pull/63) in [deliveroo/circleci](https://github.com/deliveroo/circleci)
-3. 🎉 Merged PR [#1](https://github.com/rustymagnet3000/bits_bytes_playground/pull/1) in [rustymagnet3000/bits_bytes_playground](https://github.com/rustymagnet3000/bits_bytes_playground)
-4. 💪 Opened PR [#1](https://github.com/rustymagnet3000/bits_bytes_playground/pull/1) in [rustymagnet3000/bits_bytes_playground](https://github.com/rustymagnet3000/bits_bytes_playground)
-5. 🎉 Merged PR [#4](https://github.com/rustymagnet3000/rustymagnet3000/pull/4) in [rustymagnet3000/rustymagnet3000](https://github.com/rustymagnet3000/rustymagnet3000)
-<!--END_SECTION:activity-->
-
-</details>
 
 ---
 <details>
