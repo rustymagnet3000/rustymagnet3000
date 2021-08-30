@@ -28,8 +28,9 @@
 ---
 <br />
 
- :rocket: | Application Security and code
+ :rocket: | Repos
 --|---
+[iOS Debugger Challenge](https://github.com/rustymagnet3000/debugger_challenge) | Challenges for hacking `iOS` apps.
 [iOS Static / Dynamic introspection](https://gist.github.com/rustymagnet3000/605c333519cd265c7eac9d556f46dc75)|  Inspect `iOS` apps at-rest or at run-time.
 [Truststore inspector](https://github.com/rustymagnet3000/python_openssl_playground) | Check if a server `verifies` against a local `Truststore`.
 [Frida](https://github.com/rustymagnet3000/frida_scripts)| Tiny `Frida` scripts aimed at `macOS` and `iOS`.
@@ -38,7 +39,6 @@
 [Container playground](https://github.com/rustymagnet3000/docker_playground) | `Docker`, `K8s`, `Terraform` commands.
 [aws](https://github.com/rustymagnet3000/aws) | List of `cli` commands.
 [A poor man's key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `RSA Private Key` from a `RSA Public Key`.
-[iOS Debugger Challenge](https://github.com/rustymagnet3000/debugger_challenge) | Challenges for hacking `iOS` apps.
 [Notarize](https://github.com/rustymagnet3000/notarize_a_cli_macos_app)|   `Notarize` and `Package` a `macOS app`.  Stops _"could be malware"_ warning.
 [LLDB](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
 [GDB](https://github.com/rustymagnet3000/gdb)  | `gdb` debugger commands.
