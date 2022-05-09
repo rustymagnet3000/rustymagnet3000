@@ -3,13 +3,14 @@
 
 [<img align="left" alt="swift_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swiftlang]
 [<img align="left" alt="python" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="golang" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
 [<img align="left" alt="rust_lang" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rustlang]
 [<img align="left" alt="objc_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/objective-c/objective-c.png" />][objclang]
 [<img align="left" alt="c_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />][c_lang]
 [<img align="left" alt="lldb_debugger" style="max-width:100%;" src="images/lldb_icon.png" />][lldb_debugger]
-[<img align="left" alt="gdb_debugger" style="max-width:100%;" src="images/gdb_icon.png" />][gdb_debugger]
+
 [<img align="left" alt="docker" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
-[<img align="left" alt="frida" src="images/frida_icon.png" />][frida]
+[<img align="left" alt="aws" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
 
 [swiftlang]: https://swift.org/
 [python]: https://www.python.org/
@@ -17,9 +18,9 @@
 [objclang]: https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
 [c_lang]: https://en.wikipedia.org/wiki/Dennis_Ritchie
 [lldb_debugger]: https://lldb.llvm.org/
-[gdb_debugger]: https://www.gnu.org/software/gdb/
+[golang]: https://en.wikipedia.org/wiki/Go_(programming_language)
 [docker]: https://hub.docker.com/
-[frida]: https://frida.re/
+[aws]: https://aws.amazon.com/architecture/security-identity-compliance/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all
 
 <br />
 
@@ -46,7 +47,6 @@
 [xOS Port Scanner](https://github.com/rustymagnet3000/ios_macos_poor_port_scanner) | Check for open ports on `macOS` and `iOS`.
 [Explore vulnerable C APIs](https://github.com/rustymagnet3000/Reverse-Engineering-C-challenges)|  Solving _Reverse Engineering_ challenges. `c` and `c++`.
 [ECDH Key Agreement](https://github.com/rustymagnet3000/OpenSSLKeyAgreementECDH) | Two parties derive the same `shared secret` over an insecure channel.  
-
 
 ---
 <details>
