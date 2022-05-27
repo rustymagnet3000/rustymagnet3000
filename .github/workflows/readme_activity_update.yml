@@ -1,4 +1,4 @@
-name: Update README
+git push --set-upstream origin clean_up_iconsname: Update README
 
 on:
   schedule:
