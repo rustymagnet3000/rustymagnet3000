@@ -28,14 +28,13 @@
 
  :rocket: | Repos
 --|---
-[Docker playground](https://github.com/rustymagnet3000/docker_playground) | `Docker`, `circleCI`, `Snyk`, `Terraform` commands.
-[Hackerone scraper](https://github.com/rustymagnet3000/hackerone_program_scanner) | Get references to all the public H1 programs.
-[inspection / API tools](https://github.com/rustymagnet3000/burp_tips) |   `BurpSuite, cURL, Apache Bench, JMeter` tips.
-[aws](https://github.com/rustymagnet3000/aws) | List of `cli` commands.
-[RSA key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `RSA Private Key` from a `RSA Public Key`.
-[LLDB](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
-[Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Inspect `URLs, cookies, dormant code`, bypass `delegates`, `code flow` on `iOS`.
-[Truststore](https://github.com/rustymagnet3000/python_openssl_playground) | Check if a server `verifies` against a local `Truststore`.
+[Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Reverse Engineer `iOS` apps ar run-time.
+[Truststore](https://github.com/rustymagnet3000/python_openssl_playground) | Verify `certificate chain` against a local `Truststore`.
+[Hackerone scraper](https://github.com/rustymagnet3000/hackerone_program_scanner) | Example of scalable H1 project.
+[RSA key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `Private Key` from a `Public Key`.
+[LLDB cheatsheet](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
+[introspection cheatsheet](https://github.com/rustymagnet3000/burp_tips) |   `BurpSuite, cURL, Apache Bench, JMeter` tips.
+[Container cheatsheet](https://github.com/rustymagnet3000/docker_playground) | `Docker`, `circleCI`, `Snyk`, `Terraform` commands.
 ---
 <details>
   <summary>:art: Languages used</summary>
