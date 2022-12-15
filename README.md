@@ -28,9 +28,9 @@
 
  :rocket: | Repos
 --|---
-[Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Reverse Engineer `iOS` apps ar run-time.
-[Truststore](https://github.com/rustymagnet3000/python_openssl_playground) | Verify `certificate chain` against a local `Truststore`.
-[Hackerone scraper](https://github.com/rustymagnet3000/hackerone_program_scanner) | Example of scalable H1 project.
+[Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Reverse Engineer `iOS` apps at run-time.
+[Truststore](https://github.com/rustymagnet3000/python_openssl_playground) | Verify `certificates` against a `Truststore`.
+[Hackerone scraper](https://github.com/rustymagnet3000/hackerone_program_scanner) | Example of scalable HackerOne project.
 [RSA key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `Private Key` from a `Public Key`.
 [LLDB cheatsheet](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
 [introspection cheatsheet](https://github.com/rustymagnet3000/burp_tips) |   `BurpSuite, cURL, Apache Bench, JMeter` tips.
