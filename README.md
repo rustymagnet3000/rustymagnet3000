@@ -30,10 +30,10 @@
 --|---
 [Cloudflare](https://github.com/rustymagnet3000/cloudflare) | Managing Cloudflare with Terraform.
 [Hackerone scraper](https://github.com/rustymagnet3000/hackerone_program_scanner) | Example of scalable HackerOne project.
-[introspection cheatsheet](https://github.com/rustymagnet3000/burp_tips) |   `BurpSuite, cURL, Apache Bench, JMeter` tips.
+[introspection cheatsheet](https://github.com/rustymagnet3000/burp_tips) |   `Burp`, `cURL`, `Apache Bench`, `Bash` tips.
 [Container cheatsheet](https://github.com/rustymagnet3000/docker_playground) | `Docker`, `circleCI`, `Snyk`, `Terraform` commands.
 [RSA key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `Private Key` from a `Public Key`.
-[xOS Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Reverse Engineer `iOS` apps at run-time.
+[xOS Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Reverse Engineer `iOS` or `macOS` apps at run-time.
 [iOS LLDB cheatsheet](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
 
 ---
