@@ -3,7 +3,7 @@
 
 [<img align="left" alt="docker" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="aws" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
-[<img align="left" alt="terraform" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png?size=48" />][terraform]
+[<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a7058da9-e2c8-4dfd-9861-e7005af6a6fb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>][terraform]
 [<img align="left" alt="python" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="golang" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
 [<img align="left" alt="swift_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swiftlang]
@@ -34,7 +34,7 @@
 [Container cheatsheet](https://github.com/rustymagnet3000/docker_playground) | `Docker`, `circleCI`, `Snyk`, `Terraform` commands.
 [RSA key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `Private Key` from a `Public Key`.
 [xOS Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Reverse Engineer `iOS` or `macOS` apps at run-time.
-[iOS LLDB cheatsheet](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
+[iOS debugger tips](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
 
 ---
 <details>
