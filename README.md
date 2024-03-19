@@ -34,7 +34,7 @@
 [Container cheatsheet](https://github.com/rustymagnet3000/docker_playground) | `Docker`, `circleCI`, `Snyk`, `Terraform` commands.
 [RSA key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `Private Key` from a `Public Key`.
 [xOS Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Reverse Engineer `iOS` or `macOS` apps at run-time.
-[iOS LLDB cheatsheet](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
+[iOS debugger tips](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
 
 ---
 <details>
@@ -44,20 +44,7 @@
 </details>
 
 ---
-<details>
-  <summary>:bulb: Favorite computer scientists</summary>
 
-Link | Description
---|---
-[Liz Rice](https://github.com/lizrice) | Container and Kubernetes Security
-[Derek Selander](https://github.com/DerekSelander/LLDB) | iOS/macOS Reverse Engineering
-[Matthew Green](https://blog.cryptographyengineering.com/) | Cryptography and Privacy
-[Mike Ash](https://mikeash.com/) | `Objective-C`
-[Ole Begemann](https://oleb.net/) | `Swift`
-
-</details>
-
----
 <details>
   <summary>:pencil: GitHub stats</summary>
 
