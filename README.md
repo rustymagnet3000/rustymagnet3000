@@ -13,7 +13,7 @@
 [swiftlang]: https://swift.org/
 [python]: https://www.python.org/
 [rustlang]: https://www.rust-lang.org/
-[cloudflare]: https://dash.cloudflare.com/
+[cloudflare]: https://www.cloudflare.com/
 [terraform]: https://developer.hashicorp.com/terraform?product_intent=terraform
 [golang]: https://en.wikipedia.org/wiki/Go_(programming_language)
 [docker]: https://hub.docker.com/
