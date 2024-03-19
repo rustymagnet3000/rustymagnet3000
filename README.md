@@ -21,11 +21,6 @@
 
 <br />
 
-### Languages and tools
-
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="a7058da9-e2c8-4dfd-9861-e7005af6a6fb" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 <br />
 
 ---
@@ -49,20 +44,7 @@
 </details>
 
 ---
-<details>
-  <summary>:bulb: Favorite computer scientists</summary>
 
-Link | Description
---|---
-[Liz Rice](https://github.com/lizrice) | Container and Kubernetes Security
-[Derek Selander](https://github.com/DerekSelander/LLDB) | iOS/macOS Reverse Engineering
-[Matthew Green](https://blog.cryptographyengineering.com/) | Cryptography and Privacy
-[Mike Ash](https://mikeash.com/) | `Objective-C`
-[Ole Begemann](https://oleb.net/) | `Swift`
-
-</details>
-
----
 <details>
   <summary>:pencil: GitHub stats</summary>
 
