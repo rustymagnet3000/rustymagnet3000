@@ -1,11 +1,11 @@
 
-### Languages and tools
+### Likes
 
 [<img align="left" alt="cloudflare" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/db5984103161a6f28a99b69bd609873d83a21d75/topics/cloudflare/cloudflare.png" />][cloudflare]
 [<img align="left" alt="terraform" width="50px" style="max-width:100%;" src="/images/terraform.png"/>][terraform]
-[<img align="left" alt="terraform" width="50px" style="max-width:100%;" src="/images/ghas.png" />][github]
-[<img align="left" alt="python" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
+[<img align="left" alt="terraform" width="50px" style="max-width:100%;" src="/images/ghas.png"/>][ghas]
 [<img align="left" alt="golang" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
+[<img align="left" alt="python" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="rust_lang" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rustlang]
 [<img align="left" alt="swift_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swiftlang]
 [<img align="left" alt="docker" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
@@ -16,6 +16,7 @@
 [rustlang]: https://www.rust-lang.org/
 [cloudflare]: https://www.cloudflare.com/
 [terraform]: https://developer.hashicorp.com/terraform?product_intent=terraform
+[ghas]: https://github.blog/2024-01-08-github-certifications-are-generally-available/
 [golang]: https://en.wikipedia.org/wiki/Go_(programming_language)
 [docker]: https://hub.docker.com/
 [aws]: https://aws.amazon.com/architecture/security-identity-compliance/?cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all
