@@ -1,5 +1,5 @@
 
-### Likes
+### Skills
 
 [<img align="left" alt="cloudflare" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/db5984103161a6f28a99b69bd609873d83a21d75/topics/cloudflare/cloudflare.png" />][cloudflare]
 [<img align="left" alt="terraform" width="50px" style="max-width:100%;" src="/images/terraform.png"/>][terraform]
