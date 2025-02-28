@@ -6,14 +6,14 @@
 [<img align="left" alt="terraform" width="50px" style="max-width:100%;" src="/images/ghas.png"/>][ghas]
 [<img align="left" alt="golang" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
 [<img align="left" alt="python" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="rust_lang" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" />][rustlang]
+[<img align="left" alt="rust_lang" width="50px" style="max-width:100%;" src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4"/>][redis]
 [<img align="left" alt="swift_language" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/swift/swift.png" />][swiftlang]
 [<img align="left" alt="docker" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 [<img align="left" alt="aws" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />][aws]
 
 [swiftlang]: https://swift.org/
 [python]: https://www.python.org/
-[rustlang]: https://www.rust-lang.org/
+[redis]: https://redis.io/
 [cloudflare]: https://www.cloudflare.com/
 [terraform]: https://developer.hashicorp.com/terraform?product_intent=terraform
 [ghas]: https://github.blog/2024-01-08-github-certifications-are-generally-available/
@@ -33,6 +33,7 @@
 [Cloudflare](https://github.com/rustymagnet3000/cloudflare) | Managing Cloudflare with Terraform.
 [Cloudflare Worker](https://github.com/Rusty-Magnet-Ltd/cloudflare_worker) | Serverless from Cloudflare. Powered by [Hono](https://hono.dev/).
 [Hackerone scraper](https://github.com/rustymagnet3000/hackerone_program_scanner) | Example of scalable HackerOne project.
+[Redis](https://github.com/rustymagnet3000/redis) | `redis` helpful commands and notes.
 [introspection cheatsheet](https://github.com/rustymagnet3000/burp_tips) |   `Burp`, `cURL`, `Apache Bench`, `Bash` tips.
 [Container cheatsheet](https://github.com/rustymagnet3000/docker_playground) | `Docker`, `circleCI`, `Snyk`, `Terraform` commands.
 [RSA key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `Private Key` from a `Public Key`.
