@@ -31,15 +31,15 @@
  :rocket: | Repos
 --|---
 [Cloudflare](https://github.com/rustymagnet3000/cloudflare) | Managing Cloudflare with Terraform.
+[Go footguns](https://github.com/rustymagnet3000/go_footguns) | Subtle `Go` gotchas — one folder per finding.
 [Cloudflare Worker](https://github.com/Rusty-Magnet-Ltd/cloudflare_worker) | Serverless from Cloudflare. Powered by [Hono](https://hono.dev/).
-[Hackerone scraper](https://github.com/rustymagnet3000/hackerone_program_scanner) | Example of scalable HackerOne project.
 [Redis](https://github.com/rustymagnet3000/redis) | `redis` helpful commands and notes.
 [introspection cheatsheet](https://github.com/rustymagnet3000/burp_tips) |   `Burp`, `cURL`, `Apache Bench`, `Bash` tips.
 [Container cheatsheet](https://github.com/rustymagnet3000/docker_playground) | `Docker`, `circleCI`, `Snyk`, `Terraform` commands.
 [RSA key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `Private Key` from a `Public Key`.
 [xOS Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Reverse Engineer `iOS` or `macOS` apps at run-time.
 [iOS debugger tips](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
-[Go footguns](https://github.com/rustymagnet3000/go_footguns) | Subtle `Go` gotchas — one folder per finding.
+[Hackerone scraper](https://github.com/rustymagnet3000/hackerone_program_scanner) | Example of scalable HackerOne project.
 
 ---
 <details>
