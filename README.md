@@ -39,6 +39,7 @@
 [RSA key stealer](https://github.com/rustymagnet3000/poor_man_rsa_secret_stealer) | `macOS` app to derive `Private Key` from a `Public Key`.
 [xOS Swizzles](https://github.com/rustymagnet3000/reverse_engineer_ios_with_swizzles) | Reverse Engineer `iOS` or `macOS` apps at run-time.
 [iOS debugger tips](https://github.com/rustymagnet3000/lldb_debugger_and_reversing_ios_apps)  | `lldb` debugger commands and scripts.
+[Go footguns](https://github.com/rustymagnet3000/go_footguns) | Subtle `Go` gotchas — one folder per finding.
 
 ---
 <details>
