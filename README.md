@@ -6,20 +6,12 @@
 [<img align="left" alt="Google Cloud Certified Professional Cloud Architect" width="50px" style="max-width:100%;" src="/images/gcp-public.png"/>][gcp-cloud-architect]
 [<img align="left" alt="terraform" width="50px" style="max-width:100%;" src="/images/terraform-public.png"/>][terraform]
 [<img align="left" alt="GitHub Advanced Security" width="50px" style="max-width:100%;" src="/images/ghas-public.png"/>][ghas]
-[<img align="left" alt="cloudflare" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/db5984103161a6f28a99b69bd609873d83a21d75/topics/cloudflare/cloudflare.png" />][cloudflare]
-[<img align="left" alt="golang" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
-[<img align="left" alt="python" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
-[<img align="left" alt="rust_lang" width="50px" style="max-width:100%;" src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4"/>][redis]
 
-[python]: https://www.python.org/
-[redis]: https://redis.io/
-[cloudflare]: https://www.cloudflare.com/
 [terraform]: https://developer.hashicorp.com/terraform?product_intent=terraform
 [ghas]: https://github.blog/2024-01-08-github-certifications-are-generally-available/
 [aws-solutions-architect]: https://aws.amazon.com/certification/certified-solutions-architect-associate/
 [aws-security]: https://aws.amazon.com/certification/certified-security-specialty/
 [gcp-cloud-architect]: https://cloud.google.com/learn/certification/cloud-architect
-[golang]: https://en.wikipedia.org/wiki/Go_(programming_language)
 
 <br />
 
