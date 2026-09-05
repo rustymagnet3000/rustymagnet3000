@@ -3,6 +3,7 @@
 
 [<img align="left" alt="AWS Certified Solutions Architect - Associate" width="50px" style="max-width:100%;" src="/images/aws-certified-solutions-architect-associate-public.png"/>][aws-solutions-architect]
 [<img align="left" alt="AWS Certified Security - Specialty" width="50px" style="max-width:100%;" src="/images/aws-certified-security-specialty-public.png"/>][aws-security]
+[<img align="left" alt="Google Cloud Certified Professional Cloud Architect" width="50px" style="max-width:100%;" src="/images/gcp-public.png"/>][gcp-cloud-architect]
 [<img align="left" alt="terraform" width="50px" style="max-width:100%;" src="/images/terraform-public.png"/>][terraform]
 [<img align="left" alt="GitHub Advanced Security" width="50px" style="max-width:100%;" src="/images/ghas-public.png"/>][ghas]
 [<img align="left" alt="cloudflare" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/db5984103161a6f28a99b69bd609873d83a21d75/topics/cloudflare/cloudflare.png" />][cloudflare]
@@ -17,6 +18,7 @@
 [ghas]: https://github.blog/2024-01-08-github-certifications-are-generally-available/
 [aws-solutions-architect]: https://aws.amazon.com/certification/certified-solutions-architect-associate/
 [aws-security]: https://aws.amazon.com/certification/certified-security-specialty/
+[gcp-cloud-architect]: https://cloud.google.com/learn/certification/cloud-architect
 [golang]: https://en.wikipedia.org/wiki/Go_(programming_language)
 
 <br />
