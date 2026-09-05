@@ -9,7 +9,6 @@
 [<img align="left" alt="golang" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][golang]
 [<img align="left" alt="python" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][python]
 [<img align="left" alt="rust_lang" width="50px" style="max-width:100%;" src="https://avatars.githubusercontent.com/u/1529926?s=48&v=4"/>][redis]
-[<img align="left" alt="docker" width="50px" style="max-width:100%;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][docker]
 
 [python]: https://www.python.org/
 [redis]: https://redis.io/
@@ -19,7 +18,6 @@
 [aws-solutions-architect]: https://aws.amazon.com/certification/certified-solutions-architect-associate/
 [aws-security]: https://aws.amazon.com/certification/certified-security-specialty/
 [golang]: https://en.wikipedia.org/wiki/Go_(programming_language)
-[docker]: https://hub.docker.com/
 
 <br />
 
