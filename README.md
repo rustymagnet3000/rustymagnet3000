@@ -31,7 +31,7 @@
  :rocket: | Repos
 --|---
 [Cloudflare](https://github.com/rustymagnet3000/cloudflare) | Managing Cloudflare with Terraform.
-[AWS study notes](https://github.com/rustymagnet3000/aws) | Detailed AWS architecture and security notes for the Solutions Architect and Security Specialty certifications.
+[AWS study notes](https://github.com/rustymagnet3000/aws) | AWS architecture and security study notes.
 [Go footguns](https://github.com/rustymagnet3000/go_footguns) | Subtle `Go` gotchas — one folder per finding.
 [Cloudflare Worker](https://github.com/Rusty-Magnet-Ltd/cloudflare_worker) | Serverless from Cloudflare. Powered by [Hono](https://hono.dev/).
 [Redis](https://github.com/rustymagnet3000/redis) | `redis` helpful commands and notes.
