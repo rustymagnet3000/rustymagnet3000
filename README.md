@@ -1,5 +1,5 @@
 
-### Skills
+### Badges
 
 [<img align="left" alt="AWS Certified Solutions Architect - Associate" width="50px" style="max-width:100%;" src="/images/aws-certified-solutions-architect-associate-public.png"/>][aws-solutions-architect]
 [<img align="left" alt="AWS Certified Security - Specialty" width="50px" style="max-width:100%;" src="/images/aws-certified-security-specialty-public.png"/>][aws-security]
